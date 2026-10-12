@@ -13,41 +13,41 @@ cd Music
 ```
 
 ```sh
-New-Item -Name "Avenged Sevenfold - Nightmare.mp3" -ItemType "File"
+ni "Avenged Sevenfold - Nightmare.mp3"
 ```
 
 ```sh
-New-Item -Name "Avenged Sevenfold - Afterlife.mp3" -ItemType "File"
+ni "Avenged Sevenfold - Afterlife.mp3"
 ```
 
 ```sh
-New-Item -Name "Dewa 19 - Kangen.mp3" -ItemType "File"
+ni "Dewa 19 - Kangen.mp3"
 ```
 
 ```sh
-New-Item -Name "Dewa 19 - Separuh Nafas.mp3" -ItemType "File"
+ni "Dewa 19 - Separuh Nafas.mp3"
 ```
 
 ```sh
-New-Item -Name "Jasad - Pasukan Karuhun.mp3" -ItemType "File"
+ni "Jasad - Pasukan Karuhun.mp3"
 ```
 
 ```sh
-New-Item -Name "Jasad - Rebirth of Jatisunda.mp3" -ItemType "File"
+ni "Jasad - Rebirth of Jatisunda.mp3"
 ```
 
 ```sh
-New-Item -Name "Burgerkill - Shadow of Sorrow.mp3" -ItemType "File"
+ni "Burgerkill - Shadow of Sorrow.mp3"
 ```
 
 ```sh
-New-Item -Name "Burgerkill - Anjing Tanah.mp3" -ItemType "File"
+ni "Burgerkill - Anjing Tanah.mp3"
 ```
 
 ```sh
-New-Item -Name "DeadSquad - Horror Vision.mp3" -ItemType "File"
+ni "DeadSquad - Horror Vision.mp3"
 ```
 
 ```sh
-New-Item -Name "DeadSquad - Manufaktur Replika Baptis.mp3" -ItemType "File"
+ni "DeadSquad - Manufaktur Replika Baptis.mp3"
 ```
