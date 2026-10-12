@@ -1,7 +1,7 @@
 Minitask 1
 
 ```sh
-cd C:\\Users\\aldid
+cd C:\Users\aldid
 ```
 
 ```sh
