@@ -64,8 +64,3 @@ Membuat file .mp3 kosong "DeadSquad - Manufaktur Replika Baptis.mp3"
 ```sh
 ni "DeadSquad - Manufaktur Replika Baptis.mp3"
 ```
-
-Membuat kode javascript 1
-```javascript
-console.log("v1.0.0");
-```
