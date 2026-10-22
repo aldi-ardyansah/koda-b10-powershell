@@ -65,6 +65,7 @@ Membuat file .mp3 kosong "DeadSquad - Manufaktur Replika Baptis.mp3"
 ni "DeadSquad - Manufaktur Replika Baptis.mp3"
 ```
 
+Menambah kode javascript
 ```javascript
 console.log("A");
 ```
